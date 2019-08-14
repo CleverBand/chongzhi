@@ -8,7 +8,7 @@
            <router-link class="chong" to="/jilu">充值记录</router-link>
            <div class="mid">玉米粒可折扣花费</div>
            <input class="ipt" type="number" maxlength="11" placeholder="请输入手机号"/>
-           <div class="hide">中国移动</div>
+           <div class="hide">中国移动haha</div>
            <div class="fid">
                当前米粒：<span class="jifen">200</span>
            </div>
